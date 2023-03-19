@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MVVM_App</string>
+    <string name="servicioAlEstudiante">Departamento de Servicio al Estudiante</string>
+    <string name="EdificioR">Departamento del Edificio R</string>
+    <string name="CentroDeCopias">Departamento de Centro de copias</string>
+    <string name="CDIU">Departamento de CDIU</string>
+    <string name="Colecturia">Departamento de Colecturia</string>
+    <string name="MagnaC">Departamento de Magna C</string>
+    <string name="CITT">Departamento de CITT</string>
+</resources>
